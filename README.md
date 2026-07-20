@@ -1,2 +1,0 @@
-# kaustubh
-my first repository
